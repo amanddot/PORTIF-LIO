@@ -19,8 +19,8 @@ function Home() {
 function Sobre() {
   return (
     <div className="pagina-container">
-      <h2>Sobre Mim</h2>
-      <p>Olá, meu nome é <strong>Amanda</strong>, tenho 17 anos e atualmente estou cursando o <strong>Técnico em Informática</strong> no IFRJ.</p>
+      <h2>Olá,</h2>
+      <p>meu nome é <strong>Amanda</strong>, tenho 17 anos e atualmente estou cursando o <strong>Técnico em Informática</strong> no IFRJ.</p>
       
       <div style={{ marginTop: '20px', marginBottom: '20px' }}>
         <p>📬 <strong>Contato:</strong> amandaprojeto@gmail.com</p>
